@@ -1,4 +1,4 @@
-置顶。
+zd 置顶。
 # sina-weibo-crawler
 
 [![Build Status](https://travis-ci.org/intfloat/sina-weibo-crawler.svg)](https://travis-ci.org/intfloat/sina-weibo-crawler)
